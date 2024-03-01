@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Netflix 2.0</string>
+    <string name="search">Search…</string>
+    <string name="descriptionNetflix">Netflix logo</string>
+    <string name="continueWatching">Continue watching</string>
+    <string name="Popular">Popular</string>
+    <string name="MyList">My List</string>
+    <string name="Title">Titulo</string>
+    <string name="LongDescription">Descripcion</string>
+    <string name="creator">Creator:</string>
+    <string name="creatorEx">Arkaitz Calvo</string>
+    <string name="cast">Cast:</string>
+    <string name="imgLongDescription">Imagen de banner de pelicula</string>
+    <string name="castEx">Arkaitz Calvo Saldias, Mikel Echeverria, Mohamed Choudna</string>
+    <string name="blancString"> </string>
+</resources>
